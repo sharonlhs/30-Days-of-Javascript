@@ -4,5 +4,6 @@ Original: https://github.com/Asabeneh/30-Days-Of-JavaScript
 <p>Day:</p>
 <ol>
 <li><strong>Introduction</strong> > <em>22nd April 2023</em></li>
-<li><strong>Data Types, Number, Strings, Casting<strong></li>
+<li><strong>Data Types, Number, Strings, Casting<strong> > <em>23 April 2023</em></li>
+<li><strong>Booleans, Operators, Date</strong></li>
 </ol>
