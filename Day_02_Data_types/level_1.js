@@ -63,8 +63,8 @@ console.log(sentence.search('because'));
 
 /* 20. Use trim() to remove any trailing whitespace at the beginning and the end of a 
 string.E.g ' 30 Days Of JavaScript '. */
-let trimWhite = '   I am learning JavaScript.    '
-console.log(trimWhite.trim());
+let q20 = '   I am learning JavaScript.    '
+console.log(q20.trim());
 
 // 21. Use startsWith() method with the string 30 Days Of JavaScript and make the result true
 console.log(challenge.startsWith('30'));
